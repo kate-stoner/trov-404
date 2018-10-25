@@ -101,9 +101,6 @@ img::-moz-selection {
     background: 0 0
 }
 
-body {
-    -webkit-tap-highlight-color: #222
-}
 
 #mainNav {
     border-color: rgba(34, 34, 34, .05);
