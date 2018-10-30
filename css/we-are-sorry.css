@@ -16,9 +16,9 @@ body {
 }
 @font-face {
     font-family: "Galano Grotesque";
-    src: url(http://cdn-objects.trov.com/migration/fonts/galano-grotesque);
+    src: url("https://cdn-objects.trov.com/migration/fonts/galano-grotesque/regular.woff2");
 }
-
+/*url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2"),*/
 hr {
     max-width: 50px;
     border-width: 3px;
