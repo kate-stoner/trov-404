@@ -527,5 +527,11 @@ fieldset[disabled] .btn-primary:hover {
 }
 .logo{
 	padding: 20px 60px; 
+	text-align: center; 
+}
+@media (min-width:768px) {
+.logo{
+	
 	text-align: left; 
+}	
 }
