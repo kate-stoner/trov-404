@@ -14,6 +14,10 @@ body {
     font-family: "Galano Grotesque",sans-serif 
    
 }
+@font-face {
+    font-family: "Galano Grotesque";
+    src: url(http://cdn-objects.trov.com/migration/fonts/galano-grotesque);
+}
 
 hr {
     max-width: 50px;
