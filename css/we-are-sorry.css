@@ -217,7 +217,7 @@ header.masthead {
 header.masthead .header-content {
     position: relative;
     width: 100%;
-    padding: 150px 15px 100px;
+    padding: 0px 0px;
     text-align: center
 }
 
@@ -232,7 +232,8 @@ header.masthead .header-content .header-content-inner h1 {
 }
 
 header.masthead .header-content .header-content-inner hr {
-    margin: 30px auto
+    margin: 30px auto;
+	
 }
 
 header.masthead .header-content .header-content-inner p {
@@ -245,6 +246,8 @@ header.masthead .header-content .header-content-inner p {
 @media (min-width:768px) {
     header.masthead {
         height: 100%;
+		padding: 150px 15px 100px;
+		
     }
     header.masthead .header-content {
         position: absolute;
